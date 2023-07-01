@@ -20,3 +20,6 @@ Technologies Used:
 
 Wire Frame Link:
 https://lucid.app/lucidchart/9eee02c3-431e-48dc-9f11-4c089118d4f1/edit?invitationId=inv_b9452355-b14b-4952-bf5d-cc7e40ffdef8&page=0_0# 
+
+Trello Link:
+https://trello.com/b/wHiuqhHP/celebrity-news 
