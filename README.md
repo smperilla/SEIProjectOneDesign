@@ -23,3 +23,5 @@ https://lucid.app/lucidchart/9eee02c3-431e-48dc-9f11-4c089118d4f1/edit?invitatio
 
 Trello Link:
 https://trello.com/b/wHiuqhHP/celebrity-news 
+
+API: https://newsapi.org/ 
