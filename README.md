@@ -8,7 +8,7 @@ Examples:
 Enter: Chicago
 Website Searches through news sites for "chicago" + "celebrity"
 
-Enter: Cooking
+Enter: Cooking (example)
 Website Searches through news sites for "cooking" + "celebrity"
 
 
