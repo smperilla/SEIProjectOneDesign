@@ -7,15 +7,23 @@ let userInput;
 
 const $input = $('input[type="text"]');
 const $form = $('form');
+const $article = $('#article');
+const $title = $('#title');
+const $source = $('#source');
 
 $('form').on('submit',handleGetData)
 
 function handleGetData(event) {
     event.preventDefault();
     userInput = $input.val();
-    $.ajax(BASE_URL + userInput + '&apiKey=' + API_KEY)
+    $.ajax(BASE_URL + userInput + ' celebrity news ' + '&apiKey=' + API_KEY)
     .then((data) => {
-        console.log(data.articles[0]);
+        let celebData = data.articles.find(item => item.title.includes('celebrity'));
+        console.log(celebData);
+        $article.text(celebData.description)
+        $title.text(celebData.title)
+        $source.text(celebData.source.name)
+
     });
 
 

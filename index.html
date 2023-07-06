@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
@@ -8,15 +9,27 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <title>Document</title>
 </head>
+<body> 
 <div id="banner">
     <h1>Celebrity News</h1>
 </div>
 <div id="interest">
     <h1>What are you interested in?</h1>
 </div>
+
+    <form id = "form">
+        <input type="text" placeholder="Search By Topic"/>
+        <input type="submit" value="Search"/>
+    </form>
+<div> 
+    <h2>Title:</h2> 
+    <h3 id="title"></h3>   
+    <h2>Source:</h2>
+    <h3 id="source"></h3> 
+    <h2>Article:</h1>
+    <p id="article"></p>
+
+</div>
+</body>
 </html>
 
-<form id = "form">
-    <input type="text" placeholder="Search By Topic"/>
-    <input type="submit" value="Search"/>
-</form>
