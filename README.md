@@ -1,4 +1,4 @@
-# NewsProject
+# NewsProjectDESIGN
 
 #Celebrity News Website
 
