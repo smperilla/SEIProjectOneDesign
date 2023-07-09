@@ -21,7 +21,7 @@ function handleGetData(event) {
         let celebData = data.articles[0];
         $article.text(celebData.description)
         $title.text(celebData.title)
-        $source.text(celebData.source.name)
+        $source.text(celebData.source.name + ':')
 
     });
 

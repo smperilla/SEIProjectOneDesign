@@ -14,3 +14,16 @@ body {
     font-family: 'DIN Schablonierschrift Uncracke', sans-serif;
 
 }
+
+#middle {
+    text-align: left;
+    margin: 50px;
+    border: 1rem solid;
+    border-color: red;
+    padding: 1rem;
+}
+
+#source {
+    font-family: 'DIN Schablonierschrift Uncracke', sans-serif;
+    font-size: 50px;
+}
