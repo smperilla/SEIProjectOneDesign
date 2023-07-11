@@ -2,7 +2,7 @@
 
 #Celebrity News Website
 
-A news website that takes in keywords and returns the most recent news artices. However, the results add the keyword "celebrity" to every search – so it's limtied to gossip, celebrity news! There is a fun carousel to show the top three articles.
+A news website that takes in keywords and returns the most recent news artices. However, the results add the keyword "celebrity" to every search – so it's limited to gossip, celebrity news! There is a fun carousel to show the top three articles.
 
 Examples:
 Enter: Chicago
