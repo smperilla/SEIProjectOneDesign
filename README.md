@@ -16,6 +16,7 @@ Technologies Used:
 - HTML 
 - JavaScript
 - JQuery
+- CSS
 - Google Fonts
 
 Wire Frame Link:
